@@ -1,0 +1,26 @@
+[
+  {
+    "question": "A bat and a ball together cost 1.10 euros. The bat costs 1 euro more than the ball. How much does the ball cost?",
+    "choice1": "0.10 euros",
+    "choice2": "#0.05 euros ",
+    "choice3": "0.07 euros",
+    "choice4": "1 euro>",
+    "answer": 2
+  },
+  {
+    "question": "How many heads does a spider have?",
+    "choice1": "Most species have 8 eyes.",
+    "choice2": "#Head fused with thorax. ",
+    "choice3": "It has 8 heads.",
+    "choice4": "I prefer not to answer.",
+    "answer": 2
+  },
+  {
+    "question": "If yesterday were tomorrow, today would be Friday. What day is it today?",
+    "choice1": "Wednesday",
+    "choice2": "Thursday ",
+    "choice3": "Saturday",
+    "choice4": "#Sunday",
+    "answer": 4
+  }
+]
